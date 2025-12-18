@@ -1,0 +1,24 @@
+{
+  "class_names": [
+    "Acne",
+    "Athlete_Foot",
+    "Basal_cell_carcinoma",
+    "Cellulitis",
+    "Chickenpox",
+    "Cutaneous_larva_migrans",
+    "Eczema",
+    "Impetigo",
+    "Melanoma",
+    "Nail_Fungus",
+    "Psoriasis",
+    "Seborrheic_Keratoses",
+    "Shingles_HerpesZoster",
+    "Tinea",
+    "Urticaria",
+    "Vitiligo",
+    "melanocytic_nevus",
+    "rosacea",
+    "skin bruises",
+    "sunburn"
+  ]
+}
