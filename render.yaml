@@ -1,7 +1,7 @@
 services:
   - type: web
-    name: skin-disease-web-2
+    name: skin-disease-web
     env: python
-    pythonVersion: 3.10.13
+    plan: free
     buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn app:app --bind 0.0.0.0:$PORT
+    startCommand: gunicorn app:app
