@@ -1,30 +1,9 @@
-# Core
 Flask==3.0.3
 gunicorn==21.2.0
-
-# Image handling
 Pillow==10.3.0
 
-# ML / DL
 tensorflow==2.10.0
 numpy==1.26.4
 
-# Utilities
-Werkzeug==3.0.3
-absl-py==2.3.1
-astunparse==1.6.3
-flatbuffers==25.2.10
-gast==0.4.0
-google-pasta==0.2.0
-grpcio==1.76.0
-h5py==3.11.0
-libclang==18.1.1
-opt-einsum==3.3.0
 protobuf==3.19.6
-six==1.17.0
-termcolor==3.1.0
-typing-extensions==4.14.1
-wrapt==1.17.3
-
-# Optional (إذا بتستخدميه فعليًا)
-markdown==3.10
+h5py==3.11.0
